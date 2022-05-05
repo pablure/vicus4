@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import Titulo from '.. /components/Titulo'
+import Titulo from '../components/Titulo'
 export default {
     component: {
         Titulo
